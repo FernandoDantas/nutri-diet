@@ -1,5 +1,3 @@
-# nutri-diet
-
 <h1 align="center">
     nutri-diet
 </h1>
