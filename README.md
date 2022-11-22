@@ -25,7 +25,8 @@
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-- [Node.js](https://nodejs.org/en/)
+- [Java](https://www.java.com/pt-BR/)
+- [Spring Boot](https://spring.io/projects/spring-boot)
 - [React](https://reactjs.org)
 - [React Native](https://facebook.github.io/react-native/)
 - [Expo](https://expo.io/)
