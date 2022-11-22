@@ -1,5 +1,5 @@
 <h1 align="center">
-    nutri-diet
+    <b>Nutri Diet</b>
 </h1>
 
 <p align="center">
