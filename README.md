@@ -33,14 +33,14 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O Proffy é uma plataforma de estudos online que ajuda pessoas a encontrarem professores online.
+O NutriDiet é uma plataforma online que ajuda pessoas a encontrarem nutricionistas online.
 
 ## 🔖 Layout
 
 Nos links abaixo você encontra o layout do projeto web e também do mobile. Lembrando que você precisa ter uma conta no [Figma](http://figma.com/) para acessá-lo.
 
-- [Layout Web](https://www.figma.com/file/GHGS126t7WYjnPZdRKChJF/Proffy-Web)
-- [Layout Mobile](https://www.figma.com/file/e33KvgUpFdunXxJjHnK7CG/Proffy-Mobile)
+- [Layout Web](https://www.figma.com/file/bdu1VErywUNycwgeqtbq37/Nutri-Diet-Web?t=pusyCqTw3xdIEPZo-6)
+- [Layout Mobile](#)
 
 ## :memo: Licença
 
@@ -48,4 +48,4 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para
 
 ---
 
-Feito com ♥ by Rocketseat :wave: [Participe da nossa comunidade!](https://discordapp.com/invite/gCRAFhc)
+Feito com ♥ by Fernando Dantas :wave: [Me envie uma mensagem!](https://api.whatsapp.com/send?phone=5583981500294&text=Ol%C3%A1%20Fernando!!%20%20Gostaria%20de%20saber%20mais%20sobre%20seus%20servi%C3%A7os)
