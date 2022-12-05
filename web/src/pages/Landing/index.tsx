@@ -4,9 +4,9 @@
 import logoImg from '../../assets/images/logo.svg';
 import landingImg from '../../assets/images/landing.svg';
 
-import studyIcon from '../../assets/images/icons/study.svg';
-import giveClassesIcon from '../../assets/images/icons/give-classes.svg';
-import purpleHeartIcon from '../../assets/images/icons/purple-heart.svg';
+import patientIcon from '../../assets/images/icons/patient.svg';
+import giveConsultIcon from '../../assets/images/icons/give-consult.svg';
+import blueHeartIcon from '../../assets/images/icons/blue-heart.svg';
 
 //import api from '../../services/api';
 
@@ -27,7 +27,7 @@ function Landing() {
     <div id="page-landing">
       <div id="page-landing-content" className="container">
         <div className="logo-container">
-          <img src={logoImg} alt="Proffy" />
+          <img src={logoImg} alt="NutriDiet" />
           <h2>O maior ecossistema de Nutrição do Brasil à sua disposição.</h2>
         </div>
 
@@ -39,18 +39,18 @@ function Landing() {
 
         <div className="buttons-container">
           <a href='/' className="study">
-            <img src={studyIcon} alt="Estudar"/>
-            Estudar
+            <img src={patientIcon} alt="Paciente"/>
+            Sou Paciente
           </a>
 
           <a href='/' className="give-classes">
-            <img src={giveClassesIcon} alt="Dar aulas"/>
-            Atender
+            <img src={giveConsultIcon} alt="Nutricionista"/>
+            Sou Nutricionista
           </a>
         </div>
 
         <span className="total-connections">
-          Total de 0 conexões já realizadas <img src={purpleHeartIcon} alt="Coração roxo" />
+          Total de 0 conexões já realizadas <img src={blueHeartIcon} alt="Coração azul" />
         </span>
       </div>
     </div>

@@ -77,12 +77,12 @@
   }
   
   .buttons-container a img {
-    margin-right: 2.4rem;
+    margin-right: 0.5rem;
   }
   
   .total-connections {
     font-size: 1.4rem;
-  
+    color: var(--color-text-in-blue);
     display: flex;
     align-items: center;
     justify-content: center;

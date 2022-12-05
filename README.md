@@ -18,7 +18,7 @@
 <br>
 
 <p align="center">
-  <img alt="NutriDiet" src=".github/proffy.png" width="100%">
+  <img alt="NutriDiet" src=".github/logo.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
